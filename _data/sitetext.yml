@@ -12,23 +12,23 @@
 en: &DEFAULT_EN
   header:
     title: Bem-vindo!
-    text: Conheça mais sobre nosso projeto!
+    text: Conheça o BIMNove!
     button: Mais
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "O que fazemos"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Apoio ao Ensino"
+        desc: "Contribuímos para uma formação sólida em BIM."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Pesquisa"
+        desc: "Conduzimos descorbertas que transformam"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Extensão"
+        desc: "Engajamos em iniciativas de impacto"
         icon: fab fa-markdown
 
   portfolio:
