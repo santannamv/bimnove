@@ -22,8 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Apoio ao Ensino"
-        desc: "Contribuímos para uma formação sólida em BIM."
-        # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Contribuímos para uma formação sólida em BIM."        
         image: assets/img/timeline/1.jpg
       - title: "Pesquisa"
         desc: "Conduzimos descorbertas que transformam"
